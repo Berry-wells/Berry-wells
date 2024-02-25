@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Berry-wells
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Berry-wells/Berry-wells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xCE1360AE8A83E759355AfB0282AB67f8D2668d2F'
+quorum: 1
